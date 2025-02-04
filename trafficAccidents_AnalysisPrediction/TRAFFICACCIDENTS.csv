@@ -1,0 +1,300 @@
+State,Date/Time,Month of Accident,Day of the Week,Is Weekend?,Accident Time Slots,Road_Type,Weather_Conditions,Alcohol_Involved,Driver_Fatigue,Road_Conditions,Speed_Limit,Number_of_Deaths,Number_of_Injuries,Severity
+Delhi,12-06-2023 07:15,June,Monday,0,Off-Peak,Urban,Rainy,No,Yes,Poor,40,1,5,High
+Manipur,18-05-2023 18:30,May,Thursday,0,Evening Rush Hour,Rural,Sunny,No,No,Good,60,0,4,Low
+Chhattisgarh,17-05-2023 06:45,May,Wednesday,0,Off-Peak,Rural,Sunny,No,Yes,Fair,70,3,6,High
+Jharkhand,16-05-2023 13:15,May,Tuesday,0,Afternoon Rush Hour,Urban,Foggy,Yes,No,Good,40,1,2,Moderate
+Madhya Pradesh,15-05-2023 08:30,May,Monday,0,Morning Rush Hour,Rural,Rainy,No,No,Poor,60,2,5,High
+Odisha,14-05-2023 15:00,May,Sunday,1,Afternoon Rush Hour,Urban,Rainy,No,Yes,Poor,50,0,1,Low
+Haryana,13-05-2023 12:20,May,Saturday,1,Afternoon Rush Hour,Rural,Sunny,No,No,Fair,80,1,3,Moderate
+Punjab,12-05-2023 05:15,May,Friday,0,Off-Peak,Urban,Sunny,Yes,No,Good,30,2,4,Moderate
+Bihar,11-05-2023 18:00,May,Thursday,0,Evening Rush Hour,Rural,Sunny,No,Yes,Fair,70,3,6,High
+Assam,10-05-2023 10:45,May,Wednesday,0,Morning Rush Hour,Urban,Foggy,No,No,Poor,40,1,2,Moderate
+Gujarat,09-05-2023 16:30,May,Tuesday,0,Evening Rush Hour,Rural,Sunny,No,No,Good,60,0,4,Low
+West Bengal,08-05-2023 07:00,May,Monday,0,Off-Peak,Urban,Sunny,No,Yes,Fair,50,1,3,Moderate
+West Bengal,08-05-2023 07:00,May,Monday,0,Off-Peak,Urban,Sunny,No,Yes,Fair,50,1,3,Moderate
+Rajasthan,07-05-2023 13:30,May,Sunday,1,Afternoon Rush Hour,Rural,Rainy,No,No,Poor,60,2,5,High
+Tamil Nadu,06-05-2023 11:00,May,Saturday,1,Afternoon Rush Hour,Urban,Sunny,Yes,No,Good,30,0,1,Low
+Uttar Pradesh,05-05-2023 17:20,May,Friday,0,Evening Rush Hour,Rural,Sunny,No,No,Fair,80,1,2,Moderate
+Maharashtra,04-05-2023 10:00,May,Thursday,0,Morning Rush Hour,Rural,Sunny,No,Yes,Good,70,3,6,High
+Delhi,03-05-2023 08:15,May,Wednesday,0,Morning Rush Hour,Urban,Foggy,No,No,Poor,50,0,2,Low
+Karnataka,02-05-2023 12:45,May,Tuesday,0,Afternoon Rush Hour,Urban,Rainy,Yes,No,Good,40,1,4,Moderate
+Andhra Pradesh,01-05-2023 09:30,May,Monday,0,Morning Rush Hour,Rural,Sunny,No,No,Poor,60,2,3,Moderate
+Sikkim,20-09-2022 10:30,September,Tuesday,0,Morning Rush Hour,Rural,Foggy,No,No,Good,50,1,5,High
+Punjab,06-09-2022 08:00,September,Tuesday,0,Morning Rush Hour,Urban,Sunny,No,No,Poor,70,1,3,Moderate
+Nagaland,28-08-2022 19:20,August,Sunday,1,Night Traffic,Rural,Rainy,Yes,No,Good,80,2,3,Moderate
+Mizoram,15-08-2022 15:40,August,Monday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Good,50,1,2,Moderate
+Meghalaya,01-08-2022 11:10,August,Monday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Fair,60,3,1,High
+Manipur,25-07-2022 06:45,July,Monday,0,Off-Peak,Urban,Foggy,No,No,Poor,40,1,4,Moderate
+Haryana,11-07-2022 14:20,July,Monday,0,Afternoon Rush Hour,Rural,Rainy,Yes,No,Good,80,2,2,Moderate
+Goa,02-07-2022 17:30,July,Saturday,1,Evening Rush Hour,Urban,Sunny,No,No,Poor,70,3,3,High
+Karnataka,24-06-2022 21:20,June,Friday,0,Night Traffic,Urban,Rainy,Yes,No,Poor,50,1,2,Moderate
+Madhya Pradesh,21-06-2022 14:30,June,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Good,40,2,3,Moderate
+Delhi,19-06-2022 22:10,June,Sunday,1,Night Traffic,Rural,Clear,No,Yes,Good,60,1,2,Moderate
+Rajasthan,19-06-2022 07:45,June,Sunday,1,Off-Peak,Urban,Sunny,No,No,Fair,50,1,1,Low
+Odisha,16-06-2022 18:30,June,Thursday,0,Evening Rush Hour,Rural,Rainy,Yes,No,Poor,60,3,3,High
+Gujarat,14-06-2022 09:10,June,Tuesday,0,Morning Rush Hour,Urban,Foggy,Yes,No,Good,50,1,1,Low
+Tamil Nadu,11-06-2022 19:20,June,Saturday,1,Night Traffic,Rural,Sunny,No,Yes,Poor,40,2,4,Moderate
+Maharashtra,09-06-2022 12:30,June,Thursday,0,Afternoon Rush Hour,Urban,Rainy,No,No,Good,50,1,2,Moderate
+West Bengal,07-06-2022 20:00,June,Tuesday,0,Night Traffic,Urban,Foggy,No,No,Fair,50,2,5,High
+Kerala,06-06-2022 17:00,June,Monday,0,Evening Rush Hour,Rural,Sunny,Yes,No,Fair,60,3,2,High
+Andhra Pradesh,04-06-2022 08:20,June,Saturday,1,Morning Rush Hour,Urban,Foggy,Yes,No,Good,50,2,1,Low
+Punjab,01-06-2022 16:40,June,Wednesday,0,Evening Rush Hour,Rural,Sunny,No,Yes,Poor,40,1,1,Low
+Assam,30-05-2022 10:15,May,Monday,0,Morning Rush Hour,Urban,Rainy,No,No,Fair,50,1,2,Moderate
+Chhattisgarh,28-05-2022 18:15,May,Saturday,1,Evening Rush Hour,Rural,Rainy,Yes,No,Poor,40,4,3,High
+Rajasthan,27-05-2022 20:30,May,Friday,0,Night Traffic,Rural,Sunny,Yes,No,Poor,60,1,1,Low
+Gujarat,25-05-2022 12:10,May,Wednesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Good,50,2,3,Moderate
+Tamil Nadu,23-05-2022 17:20,May,Monday,0,Evening Rush Hour,Rural,Foggy,No,No,Good,40,1,2,Moderate
+Karnataka,20-05-2022 09:30,May,Friday,0,Morning Rush Hour,Urban,Rainy,Yes,No,Poor,50,3,2,High
+Andhra Pradesh,17-05-2022 19:45,May,Tuesday,0,Night Traffic,Rural,Sunny,Yes,No,Fair,60,2,1,Low
+Punjab,15-05-2022 14:10,May,Sunday,1,Afternoon Rush Hour,Urban,Sunny,No,No,Poor,50,1,1,Low
+Telangana,15-05-2022 13:20,May,Sunday,1,Afternoon Rush Hour,Urban,Sunny,No,No,Good,60,1,2,Moderate
+Assam,12-05-2022 08:15,May,Thursday,0,Morning Rush Hour,Rural,Foggy,No,Yes,Good,40,1,2,Moderate
+Madhya Pradesh,09-05-2022 22:30,May,Monday,0,Night Traffic,Urban,Rainy,Yes,No,Fair,50,3,3,High
+Uttar Pradesh,09-05-2022 14:30,May,Monday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Poor,80,2,3,Moderate
+Odisha,07-05-2022 11:20,May,Saturday,1,Afternoon Rush Hour,Rural,Sunny,Yes,No,Poor,60,2,1,Low
+Rajasthan,05-05-2022 11:30,May,Thursday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Fair,70,2,4,Moderate
+Gujarat,04-05-2022 19:00,May,Wednesday,0,Night Traffic,Rural,Foggy,Yes,No,Poor,40,3,2,High
+Tamil Nadu,01-05-2022 08:40,May,Sunday,1,Morning Rush Hour,Urban,Sunny,Yes,No,Fair,60,1,1,Low
+Maharashtra,30-04-2022 16:15,April,Saturday,1,Evening Rush Hour,Rural,Sunny,No,Yes,Good,50,2,4,Moderate
+Odisha,28-04-2022 08:00,April,Thursday,0,Morning Rush Hour,Urban,Foggy,No,No,Poor,50,1,6,High
+Kerala,27-04-2022 09:30,April,Wednesday,0,Morning Rush Hour,Urban,Rainy,No,No,Fair,60,1,2,Moderate
+Andhra Pradesh,25-04-2022 22:10,April,Monday,0,Night Traffic,Urban,Sunny,Yes,No,Poor,50,1,3,Moderate
+Karnataka,23-04-2022 11:30,April,Saturday,1,Afternoon Rush Hour,Rural,Foggy,Yes,No,Good,40,2,1,Low
+Punjab,20-04-2022 15:20,April,Wednesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Poor,60,1,1,Low
+Kerala,20-04-2022 11:45,April,Wednesday,0,Afternoon Rush Hour,Urban,Rainy,Yes,No,Poor,70,2,2,Moderate
+Assam,20-04-2022 10:30,April,Wednesday,0,Morning Rush Hour,Rural,Sunny,No,Yes,Fair,60,0,2,Low
+Telangana,19-04-2022 20:10,April,Tuesday,0,Night Traffic,Rural,Snowy,Yes,No,Poor,60,3,1,High
+Kerala,18-04-2022 14:10,April,Monday,0,Afternoon Rush Hour,Rural,Rainy,Yes,No,Poor,60,2,2,Moderate
+Assam,18-04-2022 07:45,April,Monday,0,Off-Peak,Rural,Rainy,No,No,Good,50,1,2,Moderate
+Andhra Pradesh,18-04-2022 03:00,April,Monday,0,Early Morning,Rural,Sunny,No,Yes,Good,40,1,2,Moderate
+Karnataka,17-04-2022 08:50,April,Sunday,1,Morning Rush Hour,Urban,Sunny,No,No,Fair,50,0,4,Low
+Odisha,16-04-2022 16:30,April,Saturday,1,Evening Rush Hour,Rural,Sunny,No,Yes,Fair,70,1,1,Low
+Tamil Nadu,15-04-2022 18:00,April,Friday,0,Evening Rush Hour,Urban,Sunny,Yes,No,Fair,60,3,3,High
+Maharashtra,15-04-2022 14:20,April,Friday,0,Afternoon Rush Hour,Urban,Foggy,Yes,No,Good,40,2,2,Moderate
+Chhattisgarh,14-04-2022 10:45,April,Thursday,0,Morning Rush Hour,Rural,Sunny,Yes,No,Poor,50,3,0,High
+Madhya Pradesh,13-04-2022 22:30,April,Wednesday,0,Night Traffic,Rural,Sunny,No,Yes,Good,60,1,3,Moderate
+Tamil Nadu,12-04-2022 04:20,April,Tuesday,0,Early Morning,Urban,Rainy,Yes,No,Good,40,2,2,Moderate
+Rajasthan,11-04-2022 12:10,April,Monday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Fair,50,1,1,Low
+Andhra Pradesh,11-04-2022 12:00,April,Monday,0,Afternoon Rush Hour,Urban,Sunny,No,No,Poor,50,0,5,High
+Karnataka,10-04-2022 08:15,April,Sunday,1,Morning Rush Hour,Rural,Sunny,Yes,No,Fair,70,1,4,Moderate
+Rajasthan,09-04-2022 15:30,April,Saturday,1,Afternoon Rush Hour,Rural,Sunny,Yes,No,Poor,60,2,1,Low
+Gujarat,08-04-2022 21:10,April,Friday,0,Night Traffic,Urban,Snowy,No,No,Good,80,3,0,High
+Odisha,08-04-2022 20:30,April,Friday,0,Night Traffic,Rural,Foggy,No,Yes,Good,40,2,2,Moderate
+Assam,07-04-2022 19:45,April,Thursday,0,Night Traffic,Urban,Rainy,No,Yes,Good,40,1,2,Moderate
+Assam,07-04-2022 06:15,April,Thursday,0,Off-Peak,Urban,Foggy,No,No,Good,50,3,1,High
+Gujarat,06-04-2022 09:15,April,Wednesday,0,Morning Rush Hour,Urban,Rainy,No,No,Poor,60,1,4,Moderate
+Kerala,06-04-2022 06:00,April,Wednesday,0,Off-Peak,Rural,Sunny,No,Yes,Fair,50,1,1,Low
+Telangana,05-04-2022 16:55,April,Tuesday,0,Evening Rush Hour,Urban,Sunny,No,No,Fair,60,2,3,Moderate
+Karnataka,05-04-2022 06:45,April,Tuesday,0,Off-Peak,Urban,Sunny,Yes,No,Fair,60,1,4,Moderate
+Madhya Pradesh,04-04-2022 14:30,April,Monday,0,Afternoon Rush Hour,Rural,Sunny,Yes,No,Poor,50,3,3,High
+Odisha,04-04-2022 08:40,April,Monday,0,Morning Rush Hour,Rural,Foggy,No,Yes,Poor,40,0,5,High
+Andhra Pradesh,03-04-2022 12:30,April,Sunday,1,Afternoon Rush Hour,Urban,Rainy,Yes,No,Good,80,1,4,Moderate
+Maharashtra,02-04-2022 18:20,April,Saturday,1,Evening Rush Hour,Rural,Sunny,Yes,No,Fair,70,2,2,Moderate
+Kerala,02-04-2022 11:20,April,Saturday,1,Afternoon Rush Hour,Urban,Sunny,Yes,No,Good,60,2,1,Low
+Chhattisgarh,01-04-2022 09:15,April,Friday,0,Morning Rush Hour,Urban,Sunny,Yes,No,Poor,60,3,1,High
+Andhra Pradesh,29-03-2022 06:45,March,Tuesday,0,Off-Peak,Urban,Rainy,No,No,Poor,50,1,1,Low
+Karnataka,27-03-2022 19:30,March,Sunday,1,Night Traffic,Urban,Foggy,Yes,No,Poor,60,4,2,High
+Maharashtra,25-03-2022 19:40,March,Friday,0,Night Traffic,Rural,Clear,No,Yes,Good,80,1,3,Moderate
+Assam,24-03-2022 10:15,March,Thursday,0,Morning Rush Hour,Rural,Rainy,No,Yes,Fair,40,1,3,Moderate
+Maharashtra,22-03-2022 08:20,March,Tuesday,0,Morning Rush Hour,Urban,Sunny,Yes,No,Good,50,2,1,Low
+Gujarat,20-03-2022 17:10,March,Sunday,1,Evening Rush Hour,Urban,Sunny,Yes,No,Good,60,3,4,High
+Chhattisgarh,20-03-2022 07:30,March,Sunday,1,Off-Peak,Rural,Sunny,No,Yes,Fair,60,0,2,Low
+Rajasthan,19-03-2022 20:45,March,Saturday,1,Night Traffic,Urban,Foggy,No,No,Poor,40,2,2,Moderate
+Gujarat,19-03-2022 19:20,March,Saturday,1,Night Traffic,Urban,Foggy,No,No,Poor,40,0,5,High
+Madhya Pradesh,19-03-2022 11:00,March,Saturday,1,Afternoon Rush Hour,Rural,Sunny,No,No,Good,80,0,3,Low
+Tamil Nadu,18-03-2022 19:30,March,Friday,0,Night Traffic,Urban,Foggy,Yes,No,Fair,60,3,1,High
+Odisha,18-03-2022 09:45,March,Friday,0,Morning Rush Hour,Urban,Rainy,No,Yes,Poor,50,1,4,Moderate
+Assam,17-03-2022 14:15,March,Thursday,0,Afternoon Rush Hour,Urban,Sunny,No,No,Fair,40,1,2,Moderate
+Kerala,17-03-2022 07:30,March,Thursday,0,Off-Peak,Rural,Foggy,Yes,No,Fair,60,2,3,Moderate
+Maharashtra,16-03-2022 22:00,March,Wednesday,0,Night Traffic,Rural,Sunny,No,No,Poor,50,0,5,High
+West Bengal,16-03-2022 13:00,March,Wednesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Fair,60,1,1,Low
+Delhi,15-03-2022 23:45,March,Tuesday,0,Night Traffic,Urban,Foggy,No,No,Poor,40,0,2,Low
+Assam,15-03-2022 23:45,March,Tuesday,0,Night Traffic,Rural,Foggy,No,No,Poor,50,1,2,Moderate
+Punjab,15-03-2022 19:30,March,Tuesday,0,Night Traffic,Urban,Rainy,No,Yes,Poor,50,1,0,Low
+Gujarat,15-03-2022 18:30,March,Tuesday,0,Evening Rush Hour,Rural,Sunny,Yes,No,Good,70,3,2,High
+Karnataka,15-03-2022 10:20,March,Tuesday,0,Morning Rush Hour,Urban,Sunny,No,No,Good,60,2,5,High
+Karnataka,14-03-2022 08:15,March,Monday,0,Morning Rush Hour,Urban,Rainy,Yes,No,Fair,50,1,4,Moderate
+Tamil Nadu,05-03-2022 23:30,March,Saturday,1,Night Traffic,Urban,Foggy,No,No,Poor,40,4,0,High
+Andhra Pradesh,05-03-2022 16:30,March,Saturday,1,Evening Rush Hour,Rural,Rainy,Yes,No,Fair,80,3,2,High
+West Bengal,04-03-2022 20:00,March,Friday,0,Night Traffic,Rural,Sunny,No,Yes,Good,60,2,3,Moderate
+Delhi,03-03-2022 12:15,March,Thursday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Good,50,5,1,High
+Manipur,02-03-2022 14:25,March,Wednesday,0,Afternoon Rush Hour,Rural,Sunny,Yes,No,Poor,50,4,1,High
+Maharashtra,02-03-2022 05:30,March,Wednesday,0,Off-Peak,Rural,Foggy,No,No,Poor,60,2,2,Moderate
+Andhra Pradesh,01-03-2022 17:00,March,Tuesday,0,Evening Rush Hour,Urban,Sunny,No,No,Fair,40,1,3,Moderate
+Uttarakhand,01-03-2022 11:00,March,Tuesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Good,50,1,2,Moderate
+Jharkhand,01-03-2022 09:40,March,Tuesday,0,Morning Rush Hour,Rural,Sunny,No,No,Good,60,2,2,Moderate
+Bihar,28-02-2022 19:30,February,Monday,0,Night Traffic,Rural,Rainy,No,No,Fair,80,2,3,Moderate
+Karnataka,28-02-2022 14:20,February,Monday,0,Afternoon Rush Hour,Rural,Sunny,Yes,No,Good,70,3,2,High
+Uttar Pradesh,28-02-2022 03:30,February,Monday,0,Early Morning,Urban,Rainy,Yes,No,Fair,60,3,0,High
+West Bengal,27-02-2022 16:45,February,Sunday,1,Evening Rush Hour,Urban,Sunny,No,Yes,Poor,70,1,4,Moderate
+Chhattisgarh,27-02-2022 16:10,February,Sunday,1,Evening Rush Hour,Rural,Sunny,No,No,Good,80,1,1,Low
+Odisha,27-02-2022 08:45,February,Sunday,1,Morning Rush Hour,Rural,Sunny,No,No,Good,60,2,5,High
+Punjab,26-02-2022 20:15,February,Saturday,1,Night Traffic,Urban,Sunny,Yes,No,Good,50,2,2,Moderate
+Assam,26-02-2022 18:00,February,Saturday,1,Evening Rush Hour,Urban,Rainy,No,No,Poor,50,3,1,High
+Jharkhand,26-02-2022 13:15,February,Saturday,1,Afternoon Rush Hour,Urban,Sunny,Yes,No,Fair,60,2,3,Moderate
+Madhya Pradesh,26-02-2022 07:30,February,Saturday,1,Off-Peak,Rural,Foggy,Yes,No,Good,50,3,2,High
+West Bengal,25-02-2022 11:30,February,Friday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Good,60,1,2,Moderate
+Madhya Pradesh,25-02-2022 07:20,February,Friday,0,Off-Peak,Rural,Sunny,No,Yes,Good,70,1,3,Moderate
+Haryana,24-02-2022 22:00,February,Thursday,0,Night Traffic,Rural,Sunny,No,No,Fair,40,1,5,High
+Delhi,24-02-2022 21:15,February,Thursday,0,Night Traffic,Urban,Foggy,No,No,Good,40,2,3,Moderate
+Odisha,24-02-2022 12:45,February,Thursday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Fair,60,4,0,High
+Chhattisgarh,23-02-2022 16:00,February,Wednesday,0,Evening Rush Hour,Rural,Sunny,No,Yes,Good,60,1,1,Low
+Maharashtra,23-02-2022 14:00,February,Wednesday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Good,50,4,1,High
+Punjab,23-02-2022 09:30,February,Wednesday,0,Morning Rush Hour,Urban,Foggy,No,Yes,Good,80,3,2,High
+West Bengal,23-02-2022 09:00,February,Wednesday,0,Morning Rush Hour,Rural,Rainy,No,No,Fair,50,3,4,High
+Karnataka,22-02-2022 18:30,February,Tuesday,0,Evening Rush Hour,Urban,Foggy,No,No,Poor,40,1,2,Moderate
+Assam,22-02-2022 17:45,February,Tuesday,0,Evening Rush Hour,Rural,Sunny,Yes,No,Poor,70,2,4,Moderate
+Gujarat,22-02-2022 14:00,February,Tuesday,0,Afternoon Rush Hour,Urban,Rainy,No,No,Poor,50,1,3,Moderate
+Tamil Nadu,22-02-2022 09:15,February,Tuesday,0,Morning Rush Hour,Urban,Foggy,No,Yes,Poor,40,1,4,Moderate
+Andhra Pradesh,22-02-2022 06:30,February,Tuesday,0,Off-Peak,Rural,Rainy,No,No,Poor,60,2,2,Moderate
+Karnataka,21-02-2022 18:45,February,Monday,0,Evening Rush Hour,Urban,Sunny,No,Yes,Fair,40,1,4,Moderate
+Rajasthan,21-02-2022 14:15,February,Monday,0,Afternoon Rush Hour,Rural,Sunny,Yes,No,Poor,60,2,1,Low
+Gujarat,20-02-2022 21:00,February,Sunday,1,Night Traffic,Urban,Sunny,No,Yes,Good,50,3,2,High
+Odisha,20-02-2022 16:45,February,Sunday,1,Evening Rush Hour,Urban,Sunny,No,Yes,Fair,40,2,3,Moderate
+Odisha,20-02-2022 12:00,February,Sunday,1,Afternoon Rush Hour,Rural,Sunny,Yes,No,Good,60,5,3,High
+Kerala,20-02-2022 08:30,February,Sunday,1,Morning Rush Hour,Rural,Foggy,No,No,Good,60,3,2,High
+Assam,19-02-2022 19:15,February,Saturday,1,Night Traffic,Urban,Sunny,No,No,Good,50,3,2,High
+Tamil Nadu,19-02-2022 05:45,February,Saturday,1,Off-Peak,Rural,Sunny,No,No,Good,70,1,3,Moderate
+Rajasthan,18-02-2022 22:00,February,Friday,0,Night Traffic,Rural,Rainy,Yes,No,Poor,80,4,1,High
+West Bengal,18-02-2022 16:20,February,Friday,0,Evening Rush Hour,Rural,Rainy,No,No,Poor,60,2,2,Moderate
+Maharashtra,18-02-2022 15:20,February,Friday,0,Afternoon Rush Hour,Urban,Rainy,Yes,No,Poor,40,4,0,High
+Haryana,18-02-2022 10:00,February,Friday,0,Morning Rush Hour,Rural,Sunny,No,Yes,Good,60,2,2,Moderate
+Delhi,17-02-2022 22:30,February,Thursday,0,Night Traffic,Urban,Snowy,No,No,Poor,50,1,5,High
+Telangana,17-02-2022 18:30,February,Thursday,0,Evening Rush Hour,Urban,Foggy,No,Yes,Good,60,1,6,High
+Delhi,17-02-2022 07:00,February,Thursday,0,Off-Peak,Urban,Sunny,No,Yes,Good,40,1,3,Moderate
+Andhra Pradesh,16-02-2022 23:30,February,Wednesday,0,Night Traffic,Rural,Sunny,Yes,No,Poor,70,4,1,High
+Assam,16-02-2022 16:50,February,Wednesday,0,Evening Rush Hour,Rural,Sunny,Yes,No,Poor,60,3,1,High
+Andhra Pradesh,16-02-2022 12:15,February,Wednesday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Fair,50,2,2,Moderate
+Kerala,16-02-2022 07:15,February,Wednesday,0,Off-Peak,Rural,Sunny,No,No,Good,70,1,3,Moderate
+Andhra Pradesh,15-02-2022 19:30,February,Tuesday,0,Night Traffic,Urban,Foggy,Yes,Yes,Poor,50,2,4,Moderate
+Maharashtra,15-02-2022 10:15,February,Tuesday,0,Morning Rush Hour,Urban,Foggy,No,No,Good,50,2,5,High
+Uttar Pradesh,15-02-2022 08:00,February,Tuesday,0,Morning Rush Hour,Rural,Sunny,No,Yes,Good,70,1,4,Moderate
+Maharashtra,14-02-2022 21:45,February,Monday,0,Night Traffic,Urban,Foggy,Yes,No,Fair,60,3,2,High
+Karnataka,14-02-2022 13:30,February,Monday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Fair,80,1,3,Moderate
+Tamil Nadu,12-02-2022 06:15,February,Saturday,1,Off-Peak,Urban,Rainy,No,No,Poor,40,2,5,High
+Jharkhand,07-02-2022 14:50,February,Monday,0,Afternoon Rush Hour,Rural,Sunny,Yes,No,Poor,70,3,2,High
+West Bengal,03-02-2022 08:15,February,Thursday,0,Morning Rush Hour,Urban,Snowy,Yes,No,Poor,50,1,4,Moderate
+Madhya Pradesh,12-01-2022 06:20,January,Wednesday,0,Off-Peak,Rural,Sunny,No,No,Good,60,0,6,High
+Delhi,08-01-2022 11:40,January,Saturday,1,Afternoon Rush Hour,Urban,Sunny,No,Yes,Poor,50,1,2,Moderate
+West Bengal,08-01-2022 03:30,January,Saturday,1,Early Morning,Rural,Rainy,Yes,No,Fair,60,3,2,High
+Tamil Nadu,07-01-2022 18:20,January,Friday,0,Evening Rush Hour,Urban,Foggy,No,Yes,Fair,50,0,5,High
+Andhra Pradesh,07-01-2022 08:10,January,Friday,0,Morning Rush Hour,Rural,Sunny,Yes,No,Good,60,4,0,High
+Gujarat,06-01-2022 22:15,January,Thursday,0,Night Traffic,Urban,Rainy,No,No,Poor,40,2,3,Moderate
+Gujarat,06-01-2022 22:15,January,Thursday,0,Night Traffic,Urban,Rainy,No,No,Poor,40,2,3,Moderate
+Karnataka,05-01-2022 14:20,January,Wednesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Good,50,1,4,Moderate
+Delhi,05-01-2022 05:45,January,Wednesday,0,Off-Peak,Rural,Sunny,Yes,No,Fair,70,3,2,High
+Maharashtra,04-01-2022 16:30,January,Tuesday,0,Evening Rush Hour,Urban,Foggy,No,Yes,Poor,40,2,1,Low
+Uttar Pradesh,04-01-2022 06:20,January,Tuesday,0,Off-Peak,Rural,Sunny,No,No,Poor,60,1,2,Moderate
+Tamil Nadu,03-01-2022 21:10,January,Monday,0,Night Traffic,Urban,Rainy,Yes,No,Good,50,3,1,High
+Madhya Pradesh,03-01-2022 13:45,January,Monday,0,Afternoon Rush Hour,Urban,Sunny,No,No,Fair,40,0,5,High
+Andhra Pradesh,03-01-2022 03:30,January,Monday,0,Early Morning,Rural,Foggy,Yes,No,Fair,60,2,3,Moderate
+Gujarat,02-01-2022 20:05,January,Sunday,1,Night Traffic,Urban,Rainy,No,Yes,Poor,40,1,2,Moderate
+Karnataka,02-01-2022 09:15,January,Sunday,1,Morning Rush Hour,Rural,Sunny,Yes,No,Fair,70,4,0,High
+Telangana,01-01-2022 17:20,January,Saturday,1,Evening Rush Hour,Urban,Sunny,No,Yes,Good,50,2,1,Low
+West Bengal,01-01-2022 12:30,January,Saturday,1,Afternoon Rush Hour,Urban,Foggy,No,Yes,Poor,50,1,4,Moderate
+Andhra Pradesh,01-01-2022 04:30,January,Saturday,1,Early Morning,Rural,Sunny,No,Yes,Good,60,1,3,Moderate
+Maharashtra,01-01-2022 02:45,January,Saturday,1,Early Morning,Rural,Rainy,Yes,No,Fair,60,3,2,High
+Delhi,12-12-2021 21:00,December,Sunday,1,Night Traffic,Urban,Rainy,Yes,No,Poor,50,0,2,Low
+Odisha,14-11-2021 22:00,November,Sunday,1,Night Traffic,Rural,Rainy,Yes,No,Good,70,2,2,Moderate
+Rajasthan,07-11-2021 17:00,November,Sunday,1,Evening Rush Hour,Urban,Sunny,No,No,Poor,50,2,1,Low
+Haryana,29-10-2021 22:15,October,Friday,0,Night Traffic,Rural,Sunny,No,No,Fair,60,0,3,Low
+Kerala,21-10-2021 03:15,October,Thursday,0,Early Morning,Rural,Sunny,Yes,No,Fair,70,1,3,Moderate
+Maharashtra,11-10-2021 11:40,October,Monday,0,Afternoon Rush Hour,Urban,Sunny,No,No,Fair,50,3,0,High
+Himachal Pradesh,29-09-2021 10:25,September,Wednesday,0,Morning Rush Hour,Rural,Sunny,Yes,No,Good,80,3,2,High
+Jharkhand,25-09-2021 19:30,September,Saturday,1,Night Traffic,Urban,Sunny,No,No,Good,50,3,1,High
+Punjab,19-09-2021 09:30,September,Sunday,1,Morning Rush Hour,Rural,Rainy,No,No,Poor,60,1,6,High
+Uttar Pradesh,15-09-2021 06:30,September,Wednesday,0,Off-Peak,Urban,Foggy,Yes,No,Good,50,2,2,Moderate
+Madhya Pradesh,09-09-2021 17:10,September,Thursday,0,Evening Rush Hour,Rural,Sunny,No,Yes,Good,80,1,4,Moderate
+Maharashtra,05-09-2021 12:45,September,Sunday,1,Afternoon Rush Hour,Urban,Sunny,No,Yes,Fair,50,1,2,Moderate
+Gujarat,31-08-2021 11:50,August,Tuesday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Fair,50,2,4,Moderate
+Bihar,23-08-2021 08:45,August,Monday,0,Morning Rush Hour,Rural,Foggy,Yes,No,Poor,70,2,3,Moderate
+Haryana,21-08-2021 21:15,August,Saturday,1,Night Traffic,Rural,Sunny,No,No,Fair,90,3,3,High
+Goa,18-08-2021 07:30,August,Wednesday,0,Off-Peak,Rural,Sunny,No,No,Good,90,2,4,Moderate
+Uttarakhand,12-08-2021 17:50,August,Thursday,0,Evening Rush Hour,Urban,Rainy,No,No,Poor,50,1,4,Moderate
+Assam,07-08-2021 14:55,August,Saturday,1,Afternoon Rush Hour,Urban,Rainy,No,No,Fair,50,2,2,Moderate
+Karnataka,02-08-2021 20:10,August,Monday,0,Night Traffic,Rural,Sunny,Yes,No,Good,80,3,2,High
+Tamil Nadu,29-07-2021 09:30,July,Thursday,0,Morning Rush Hour,Urban,Sunny,Yes,No,Good,60,2,2,Moderate
+West Bengal,28-07-2021 17:45,July,Wednesday,0,Evening Rush Hour,Urban,Rainy,No,No,Poor,50,3,3,High
+Uttar Pradesh,27-07-2021 15:00,July,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Good,80,1,5,High
+Maharashtra,26-07-2021 21:30,July,Monday,0,Night Traffic,Urban,Sunny,Yes,No,Good,60,2,2,Moderate
+Kerala,25-07-2021 14:15,July,Sunday,1,Afternoon Rush Hour,Urban,Sunny,No,No,Fair,50,1,4,Moderate
+Andhra Pradesh,25-07-2021 08:00,July,Sunday,1,Morning Rush Hour,Rural,Foggy,No,No,Good,80,4,1,High
+Tamil Nadu,24-07-2021 11:45,July,Saturday,1,Afternoon Rush Hour,Urban,Sunny,No,Yes,Fair,60,2,2,Moderate
+Punjab,23-07-2021 19:30,July,Friday,0,Night Traffic,Urban,Rainy,Yes,No,Fair,50,3,3,High
+Maharashtra,23-07-2021 09:00,July,Friday,0,Morning Rush Hour,Rural,Sunny,No,No,Poor,80,1,5,High
+Tamil Nadu,22-07-2021 18:20,July,Thursday,0,Evening Rush Hour,Rural,Foggy,No,No,Poor,70,4,1,High
+West Bengal,22-07-2021 13:30,July,Thursday,0,Afternoon Rush Hour,Urban,Sunny,No,No,Good,60,2,2,Moderate
+Uttar Pradesh,21-07-2021 08:15,July,Wednesday,0,Morning Rush Hour,Rural,Foggy,No,No,Poor,50,1,6,High
+Kerala,20-07-2021 22:45,July,Tuesday,0,Night Traffic,Urban,Rainy,No,Yes,Poor,60,2,3,Moderate
+Andhra Pradesh,20-07-2021 14:00,July,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Good,80,3,4,High
+Punjab,19-07-2021 07:30,July,Monday,0,Off-Peak,Urban,Sunny,Yes,No,Good,50,2,2,Moderate
+Maharashtra,18-07-2021 21:15,July,Sunday,1,Night Traffic,Urban,Sunny,No,Yes,Good,60,1,5,High
+Tamil Nadu,18-07-2021 16:00,July,Sunday,1,Evening Rush Hour,Urban,Sunny,No,No,Fair,50,4,1,High
+Odisha,18-07-2021 11:20,July,Sunday,1,Afternoon Rush Hour,Urban,Sunny,No,No,Poor,60,1,3,Moderate
+Uttar Pradesh,17-07-2021 21:30,July,Saturday,1,Night Traffic,Urban,Sunny,Yes,No,Good,60,2,2,Moderate
+West Bengal,17-07-2021 09:00,July,Saturday,1,Morning Rush Hour,Rural,Sunny,No,No,Good,80,1,3,Moderate
+Maharashtra,16-07-2021 18:15,July,Friday,0,Evening Rush Hour,Rural,Foggy,No,No,Poor,80,3,2,High
+Karnataka,15-07-2021 10:45,July,Thursday,0,Morning Rush Hour,Urban,Rainy,No,Yes,Fair,50,1,4,Moderate
+West Bengal,29-06-2021 10:40,June,Tuesday,0,Morning Rush Hour,Rural,Sunny,No,No,Good,70,1,5,High
+Gujarat,28-06-2021 15:25,June,Monday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Good,70,0,5,High
+Maharashtra,27-06-2021 08:15,June,Sunday,1,Morning Rush Hour,Urban,Foggy,Yes,No,Poor,40,1,4,Moderate
+Karnataka,26-06-2021 19:30,June,Saturday,1,Night Traffic,Rural,Sunny,No,No,Fair,60,3,2,High
+Andhra Pradesh,25-06-2021 12:40,June,Friday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Poor,50,2,3,Moderate
+Haryana,24-06-2021 05:55,June,Thursday,0,Off-Peak,Rural,Sunny,No,No,Good,70,1,2,Moderate
+Punjab,23-06-2021 14:05,June,Wednesday,0,Afternoon Rush Hour,Urban,Rainy,Yes,No,Poor,50,4,1,High
+Gujarat,22-06-2021 10:20,June,Tuesday,0,Morning Rush Hour,Rural,Sunny,No,No,Fair,60,2,3,Moderate
+Maharashtra,21-06-2021 18:45,June,Monday,0,Evening Rush Hour,Urban,Foggy,No,No,Poor,40,0,6,High
+Karnataka,21-06-2021 07:30,June,Monday,0,Off-Peak,Rural,Sunny,No,Yes,Poor,70,1,4,Moderate
+Tamil Nadu,20-06-2021 22:15,June,Sunday,1,Night Traffic,Urban,Rainy,Yes,No,Good,50,3,2,High
+Chhattisgarh,15-06-2021 14:10,June,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Fair,60,1,2,Moderate
+Tamil Nadu,14-06-2021 08:55,June,Monday,0,Morning Rush Hour,Urban,Sunny,No,Yes,Good,40,2,2,Moderate
+Karnataka,13-06-2021 16:40,June,Sunday,1,Evening Rush Hour,Rural,Sunny,Yes,No,Good,90,3,1,High
+Maharashtra,12-06-2021 12:15,June,Saturday,1,Afternoon Rush Hour,Urban,Rainy,No,No,Poor,50,1,4,Moderate
+Delhi,12-06-2021 08:15,June,Saturday,1,Morning Rush Hour,Urban,Rainy,No,Yes,Poor,40,1,5,High
+Kerala,11-06-2021 03:30,June,Friday,0,Early Morning,Urban,Sunny,No,Yes,Good,40,2,2,Moderate
+Gujarat,10-06-2021 21:10,June,Thursday,0,Night Traffic,Rural,Sunny,No,No,Good,70,1,1,Low
+Andhra Pradesh,09-06-2021 14:20,June,Wednesday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Fair,50,1,3,Moderate
+Telangana,08-06-2021 13:40,June,Tuesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Fair,70,1,1,Low
+Rajasthan,08-06-2021 11:00,June,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Poor,60,2,2,Moderate
+Tamil Nadu,07-06-2021 06:30,June,Monday,0,Off-Peak,Urban,Sunny,No,Yes,Good,50,3,1,High
+Karnataka,06-06-2021 19:15,June,Sunday,1,Night Traffic,Rural,Sunny,Yes,No,Good,80,1,2,Moderate
+Rajasthan,05-06-2021 16:25,June,Saturday,1,Evening Rush Hour,Urban,Sunny,No,Yes,Good,60,1,2,Moderate
+Maharashtra,05-06-2021 08:45,June,Saturday,1,Morning Rush Hour,Urban,Rainy,No,No,Poor,40,1,4,Moderate
+Karnataka,03-06-2021 18:20,June,Thursday,0,Evening Rush Hour,Rural,Sunny,Yes,No,Poor,80,3,1,High
+Andhra Pradesh,02-06-2021 03:55,June,Wednesday,0,Early Morning,Urban,Sunny,No,Yes,Poor,50,1,3,Moderate
+West Bengal,01-06-2021 11:30,June,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Good,70,2,2,Moderate
+Maharashtra,31-05-2021 16:10,May,Monday,0,Evening Rush Hour,Urban,Sunny,No,No,Good,40,1,1,Low
+Kerala,30-05-2021 07:20,May,Sunday,1,Off-Peak,Rural,Rainy,Yes,No,Poor,60,4,2,High
+Uttar Pradesh,29-05-2021 19:45,May,Saturday,1,Night Traffic,Urban,Sunny,No,Yes,Poor,50,2,3,Moderate
+Tamil Nadu,28-05-2021 13:30,May,Friday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Good,90,1,1,Low
+Assam,27-05-2021 03:20,May,Thursday,0,Early Morning,Urban,Foggy,No,Yes,Poor,60,1,2,Moderate
+Karnataka,26-05-2021 16:15,May,Wednesday,0,Evening Rush Hour,Rural,Sunny,Yes,No,Poor,80,3,2,High
+Andhra Pradesh,25-05-2021 11:40,May,Tuesday,0,Afternoon Rush Hour,Urban,Sunny,No,Yes,Poor,50,1,1,Low
+West Bengal,24-05-2021 15:10,May,Monday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Good,70,2,3,Moderate
+Maharashtra,23-05-2021 06:55,May,Sunday,1,Off-Peak,Urban,Rainy,No,No,Fair,40,1,4,Moderate
+Kerala,22-05-2021 21:30,May,Saturday,1,Night Traffic,Rural,Foggy,Yes,No,Poor,60,4,1,High
+Uttar Pradesh,21-05-2021 09:45,May,Friday,0,Morning Rush Hour,Urban,Sunny,No,Yes,Poor,50,2,2,Moderate
+Tamil Nadu,20-05-2021 17:00,May,Thursday,0,Evening Rush Hour,Rural,Sunny,No,No,Good,90,1,3,Moderate
+Assam,19-05-2021 14:30,May,Wednesday,0,Afternoon Rush Hour,Urban,Rainy,No,No,Poor,40,1,1,Low
+Manipur,18-05-2021 19:30,May,Tuesday,0,Night Traffic,Rural,Sunny,No,No,Good,60,0,4,Low
+Karnataka,18-05-2021 12:15,May,Tuesday,0,Afternoon Rush Hour,Rural,Sunny,No,Yes,Poor,70,2,5,High
+Andhra Pradesh,17-05-2021 19:10,May,Monday,0,Night Traffic,Urban,Sunny,No,Yes,Fair,60,1,2,Moderate
+Chhattisgarh,17-05-2021 07:45,May,Monday,0,Off-Peak,Rural,Sunny,No,Yes,Fair,70,3,6,High
+Jharkhand,16-05-2021 14:15,May,Sunday,1,Afternoon Rush Hour,Urban,Foggy,Yes,No,Good,40,1,2,Moderate
+West Bengal,16-05-2021 08:20,May,Sunday,1,Morning Rush Hour,Rural,Rainy,Yes,No,Good,80,3,2,High
+Madhya Pradesh,15-05-2021 09:30,May,Saturday,1,Morning Rush Hour,Rural,Rainy,No,No,Poor,60,2,5,High
+Maharashtra,15-05-2021 02:45,May,Saturday,1,Early Morning,Urban,Foggy,No,Yes,Poor,50,1,4,Moderate
+Odisha,14-05-2021 16:00,May,Friday,0,Evening Rush Hour,Urban,Rainy,No,Yes,Poor,50,0,1,Low
+Haryana,13-05-2021 13:20,May,Thursday,0,Afternoon Rush Hour,Rural,Sunny,No,No,Fair,80,1,3,Moderate
+Punjab,12-05-2021 06:15,May,Wednesday,0,Off-Peak,Urban,Sunny,Yes,No,Good,30,2,4,Moderate
+Bihar,11-05-2021 19:00,May,Tuesday,0,Night Traffic,Rural,Sunny,No,Yes,Fair,70,3,6,High
+Assam,10-05-2021 11:45,May,Monday,0,Afternoon Rush Hour,Urban,Foggy,No,No,Poor,40,1,2,Moderate
+Gujarat,09-05-2021 17:30,May,Sunday,1,Evening Rush Hour,Rural,Sunny,No,No,Good,60,0,4,Low
+West Bengal,08-05-2021 08:00,May,Saturday,1,Morning Rush Hour,Urban,Sunny,No,Yes,Fair,50,1,3,Moderate
+Rajasthan,07-05-2021 14:30,May,Friday,0,Afternoon Rush Hour,Rural,Rainy,No,No,Poor,60,2,5,High
+Tamil Nadu,06-05-2021 12:00,May,Thursday,0,Afternoon Rush Hour,Urban,Sunny,Yes,No,Good,30,0,1,Low
+Uttar Pradesh,05-05-2021 21:20,May,Wednesday,0,Night Traffic,Rural,Sunny,No,No,Fair,80,1,2,Moderate
+Maharashtra,04-05-2021 06:00,May,Tuesday,0,Off-Peak,Rural,Sunny,No,Yes,Good,70,3,6,High
+Delhi,03-05-2021 10:15,May,Monday,0,Morning Rush Hour,Urban,Foggy,No,No,Poor,50,0,2,Low
+Karnataka,02-05-2021 18:45,May,Sunday,1,Evening Rush Hour,Urban,Rainy,Yes,No,Good,40,1,4,Moderate
+Andhra Pradesh,01-05-2021 15:30,May,Saturday,1,Afternoon Rush Hour,Rural,Sunny,No,No,Poor,60,2,3,Moderate
